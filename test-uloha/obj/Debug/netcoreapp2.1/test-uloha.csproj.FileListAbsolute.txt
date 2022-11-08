@@ -1,0 +1,11 @@
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\bin\Debug\netcoreapp2.1\test-uloha.deps.json
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\bin\Debug\netcoreapp2.1\test-uloha.runtimeconfig.json
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\bin\Debug\netcoreapp2.1\test-uloha.runtimeconfig.dev.json
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\bin\Debug\netcoreapp2.1\test-uloha.dll
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\bin\Debug\netcoreapp2.1\test-uloha.pdb
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\obj\Debug\netcoreapp2.1\test-uloha.csprojAssemblyReference.cache
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\obj\Debug\netcoreapp2.1\test-uloha.csproj.CoreCompileInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\obj\Debug\netcoreapp2.1\test-uloha.AssemblyInfoInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\obj\Debug\netcoreapp2.1\test-uloha.AssemblyInfo.cs
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\obj\Debug\netcoreapp2.1\test-uloha.dll
+C:\Users\Valentik.Lu.2022\source\repos\test-uloha\test-uloha\obj\Debug\netcoreapp2.1\test-uloha.pdb
